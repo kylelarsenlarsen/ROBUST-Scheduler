@@ -2,9 +2,9 @@
 
 ## Description
 
+This application is designed to demonstrate my comprehension of local storage, JQuery, HTML, and JavaScript. Boot 'er up and check it out!
 
-
-![image](./assets/images/INSERTIMAGEHERE)
+![image](./assets/images/scheduler.PNG)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 ## Usage
 
-
+Follow the application link above, type in an appointment you'd like to keep throughout your workday, save!
 
 ## Credits
 
